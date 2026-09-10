@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Water hyacinth cover">
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9bb7d8"/>
+      <stop offset="100%" stop-color="#c9dcc8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#water)"/>
+  <ellipse cx="600" cy="500" rx="420" ry="90" fill="#fff" opacity="0.22"/>
+  <ellipse cx="600" cy="430" rx="280" ry="48" fill="#111" opacity="0.08"/>
+  <rect x="430" y="250" width="340" height="160" rx="80" fill="#fff" opacity="0.45"/>
+  <circle cx="860" cy="180" r="70" fill="#d7c4e8" opacity="0.8"/>
+</svg>

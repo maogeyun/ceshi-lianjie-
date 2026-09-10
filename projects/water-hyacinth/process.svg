@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Water hyacinth process">
+  <rect width="1200" height="760" fill="#e6eef6"/>
+  <path d="M0 430 C 200 360, 400 500, 600 430 S 1000 360, 1200 430 V760 H0 Z" fill="#9bb7d8" opacity="0.55"/>
+  <circle cx="240" cy="280" r="70" fill="#c9dcc8"/>
+  <circle cx="600" cy="250" r="70" fill="#fff"/>
+  <circle cx="960" cy="280" r="70" fill="#d7c4e8"/>
+</svg>
